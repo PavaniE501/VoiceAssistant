@@ -8,9 +8,6 @@ export default function App() {
     //apiCall('create an image or a dog playing with cat');
   },[])
   return (
-    // <Navigator/>
-    <View>
-      <Text>App Text</Text>
-    </View>
+    <Navigator/>
   )
 }
